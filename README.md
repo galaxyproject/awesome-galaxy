@@ -99,4 +99,14 @@ A community project to get an overview about the Galaxy project
 
 ### Virtual Machines
 
+- [Virtual Galaxy Compute Nodes](https://github.com/usegalaxy-eu/vgcn)
+- [Planemo Machine](https://github.com/galaxyproject/planemo-machine)
+
 ### Docker containers
+
+- [Galaxy Docker](https://github.com/bgruening/docker-galaxy-stable)
+- [Galaxy Docker compose](https://github.com/bgruening/docker-galaxy-stable/tree/master/compose)
+- [NGS-preprocessing](https://github.com/bgruening/docker-galaxy-ngs-preprocessing)
+- [GraphClust - RNA structural clustering](https://github.com/BackofenLab/docker-galaxy-graphclust)
+- [RNA workbench](https://github.com/bgruening/galaxy-rna-workbench)
+
