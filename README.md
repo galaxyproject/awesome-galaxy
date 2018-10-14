@@ -16,7 +16,7 @@ A community project to get an overview about the Galaxy project
     - [Tutorials and Trainings](#tutorials-and-trainings)
     - [Tools](#tools)
 
-- [Projects](#projects)
+- [Admins](#admins)
 - [Virtual Research Environments](#virtual-research-environments)
 
 # Resources
@@ -93,7 +93,9 @@ A community project to get an overview about the Galaxy project
 - [Intergalactic Workflow Commision](https://github.com/galaxyproject/iwc)
 - [Workflow testing](https://github.com/usegalaxy-eu/workflow-testing)
 
-# Projects
+# Admins
+
+- [gxadmin - shell tools](https://github.com/usegalaxy-eu/gxadmin)
 
 # Virtual Research Environments
 
