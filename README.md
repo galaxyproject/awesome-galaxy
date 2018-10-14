@@ -6,8 +6,6 @@
 
 A community project to get an overview about the Galaxy project
 
-
-
 - [Resources](#resources)
     - [Official Resources](#official-resources)
     - [API](#api)
@@ -16,8 +14,10 @@ A community project to get an overview about the Galaxy project
     - [Conferences](#conferences)
     - [Vimeo Channels](#vimeo-channels)
     - [Tutorials and Trainings](#tutorials-and-trainings)
+    - [Tools](#tools)
 
 - [Projects](#projects)
+- [Virtual Research Environments](#virtual-research-environments)
 
 # Resources
 
@@ -30,6 +30,8 @@ A community project to get an overview about the Galaxy project
 - [GitHub Repo](https://github.com/galaxyproject/galaxy)
 - [Roadmap](https://github.com/galaxyproject/galaxy/projects/8)
 - [Release Notes](https://docs.galaxyproject.org/en/release_18.05/releases/index.html)
+- [ToolShed](https://toolshed.g2.bx.psu.edu)
+- [Test ToolShed](https://testtoolshed.g2.bx.psu.edu)
 
 ### API
 
@@ -65,4 +67,36 @@ A community project to get an overview about the Galaxy project
 - [Admin](http://galaxyproject.github.io/training-material/topics/admin/)
 - [Developers](http://galaxyproject.github.io/training-material/topics/dev/)
 
+### Tools
+
+- [Björn Grüning repo](https://github.com/bgruening/galaxytools)
+- [Galaxy devteam repo](https://github.com/galaxyproject/tools-devteam)
+- Peter Cock's repos:
+  - [blast repo](https://github.com/peterjc/galaxy_blast)
+  - [pico repo](https://github.com/peterjc/pico_galaxy)
+  - [mira repo](https://github.com/peterjc/galaxy_mira)
+- [ENCODE tools](https://github.com/modENCODE-DCC/Galaxy)
+- [Biopython repo](https://github.com/biopython/galaxy_packages)
+- [Galaxy Proteomics repo](https://github.com/galaxyproteomics/tools-galaxyp)
+- [Colibread Galaxy Tools](https://github.com/genouest/tools-colibread)
+- [Greg von Kuster's repo](https://github.com/gregvonkuster/galaxy-csg)
+- [EI repo](https://github.com/TGAC/earlham-galaxytools)
+- [AAFC-MBB Canada repo](https://github.com/AAFC-MBB/Galaxy/tree/master/wrappers)
+- [Mark Einon's repo](https://github.com/einon/galaxy-tools)
+- [National Microbiology Laboratory's repo](https://github.com/phac-nml/galaxy_tools)
+- [Computational Chemistry](https://github.com/galaxycomputationalchemistry)
+- [List of usegalaxy.* tools](https://github.com/usegalaxy-eu/usegalaxy-eu-tools)
+
+
+# Workflows
+
+- [Intergalactic Workflow Commision](https://github.com/galaxyproject/iwc)
+- [Workflow testing](https://github.com/usegalaxy-eu/workflow-testing)
+
 # Projects
+
+# Virtual Research Environments
+
+### Virtual Machines
+
+### Docker containers
