@@ -41,6 +41,8 @@ A community project to get an overview about the Galaxy project
 - [PHP API bindings](https://github.com/galaxyproject/blend4php)
 - [JavaScript API binding](https://github.com/galaxyproject/galaxy/tree/dev/client/galaxy/scripts/mvc)
 - [CLI access to Galaxy](https://github.com/galaxy-iuc/parsec/)
+- [nebulizer - Command-line utilities to help with managing users, data libraries and tools in a Galaxy instance](https://github.com/pjbriggs/nebulizer)
+- [ephemeris - Python library and set of scripts for managing the bootstrapping of Galaxy plugins - tools, index data, and workflows](https://github.com/galaxyproject/ephemeris)
 
 ### Job Portal
 
