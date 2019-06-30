@@ -87,6 +87,7 @@ A community project to get an overview about the Galaxy project
 - [Mark Einon's repo](https://github.com/einon/galaxy-tools)
 - [National Microbiology Laboratory's repo](https://github.com/phac-nml/galaxy_tools)
 - [Computational Chemistry](https://github.com/galaxycomputationalchemistry)
+- [Workflow4Metabolomics repo**s**](https://github.com/workflow4metabolomics)
 - [List of usegalaxy.* tools](https://github.com/usegalaxy-eu/usegalaxy-eu-tools)
 
 
