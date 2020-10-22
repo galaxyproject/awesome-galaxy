@@ -43,6 +43,8 @@ A community project to get an overview about the Galaxy project
 - [CLI access to Galaxy](https://github.com/galaxy-iuc/parsec/)
 - [nebulizer - Command-line utilities to help with managing users, data libraries and tools in a Galaxy instance](https://github.com/pjbriggs/nebulizer)
 - [ephemeris - Python library and set of scripts for managing the bootstrapping of Galaxy plugins - tools, index data, and workflows](https://github.com/galaxyproject/ephemeris)
+- [Golang API bindings](https://pkg.go.dev/github.com/brinkmanlab/blend4go)
+- [VueJS API bindings](https://github.com/brinkmanlab/galaxy-client/)
 
 ### Job Portal
 
@@ -71,6 +73,8 @@ A community project to get an overview about the Galaxy project
 
 ### Tools
 
+- [Inspect tool](https://github.com/brinkmanlab/galaxy-tools/blob/master/inspect/inspect.xml) reveals resources available to Galaxy tool wrapper command templates
+
 - [Björn Grüning repo](https://github.com/bgruening/galaxytools)
 - [Galaxy devteam repo](https://github.com/galaxyproject/tools-devteam)
 - Peter Cock's repos:
@@ -89,6 +93,7 @@ A community project to get an overview about the Galaxy project
 - [Computational Chemistry](https://github.com/galaxycomputationalchemistry)
 - [Workflow4Metabolomics repo**s**](https://github.com/workflow4metabolomics)
 - [List of usegalaxy.* tools](https://github.com/usegalaxy-eu/usegalaxy-eu-tools)
+- [Fiona Brinkman Lab repo](https://github.com/brinkmanlab/galaxy-tools)
 
 
 # Workflows
@@ -99,6 +104,7 @@ A community project to get an overview about the Galaxy project
 # Admins
 
 - [gxadmin - shell tools](https://github.com/usegalaxy-eu/gxadmin)
+- [Galaxy terraform provider](https://registry.terraform.io/providers/brinkmanlab/galaxy/latest)
 
 # Virtual Research Environments
 
