@@ -105,6 +105,17 @@ A community project to get an overview about the Galaxy project
 
 - [gxadmin - shell tools](https://github.com/usegalaxy-eu/gxadmin)
 - [Galaxy terraform provider](https://registry.terraform.io/providers/brinkmanlab/galaxy/latest)
+- [Galaxy K8s metrics](https://github.com/CloudVE/galaxy-docker-k8s-metrics)
+- [Ansible Docker boot](https://github.com/CloudVE/ansible-docker-boot)
+
+# Deployment
+
+### Kubernetes
+- [Galaxy Helm](https://github.com/galaxyproject/galaxy-helm)
+- [GalaxyKubeMan Helm](https://github.com/galaxyproject/galaxykubeman-helm)
+- [Galaxy CVMFS CSI Helm](https://github.com/CloudVE/galaxy-cvmfs-csi-helm)
+- [CloudMan Helm](https://github.com/CloudVE/cloudman-helm)
+- [CloudLaunch Helm](https://github.com/CloudVE/cloudlaunch-helm)- 
 
 # Virtual Research Environments
 
@@ -120,4 +131,16 @@ A community project to get an overview about the Galaxy project
 - [NGS-preprocessing](https://github.com/bgruening/docker-galaxy-ngs-preprocessing)
 - [GraphClust - RNA structural clustering](https://github.com/BackofenLab/docker-galaxy-graphclust)
 - [RNA workbench](https://github.com/bgruening/galaxy-rna-workbench)
+
+### Cloud infrastructure
+
+- [CloudBridge](https://github.com/CloudVE/cloudbridge)
+- [CloudLaunch server](https://github.com/galaxyproject/cloudlaunch)
+- [Cloudlaunch UI](https://github.com/galaxyproject/cloudlaunch-ui)
+- [CloudLaunch CLI](https://github.com/CloudVE/cloudlaunch-cli)
+- [CloudMan server](https://github.com/galaxyproject/cloudman)
+- [CloudMan UI](https://github.com/CloudVE/cloudman-ui)
+- [Galaxy Cloud Runner](https://github.com/CloudVE/galaxycloudrunner)
+- [AWS instance types](https://github.com/CloudVE/aws-instance-types)
+
 
