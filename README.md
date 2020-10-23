@@ -7,7 +7,7 @@
 A community project to get an overview about the Galaxy project
 
 - [Resources](#resources)
-    - [Official Resources](#official-resources)
+    - [Core Resources](#core-resources)
     - [API](#api)
     - [Job Portal](#job-portal)
     - [Community](#community)
@@ -21,28 +21,26 @@ A community project to get an overview about the Galaxy project
 
 # Resources
 
-### Official Resources
+### Core
 
 - [Official Wiki](https://galaxyproject.org/)
-- [API](https://galaxyproject.org/develop/api/)
-- [API Reference](https://docs.galaxyproject.org/en/master/api_doc.html)
-- [GitHub Organisation](https://github.com/galaxyproject)
-- [GitHub Repo](https://github.com/galaxyproject/galaxy)
+- [Release Notes](https://docs.galaxyproject.org/en/master/releases/index.html)
+- [GitHub Home](https://github.com/galaxyproject)
+- [Core Repo](https://github.com/galaxyproject/galaxy)
 - [Roadmap](https://github.com/galaxyproject/galaxy/projects/8)
-- [Release Notes](https://docs.galaxyproject.org/en/release_18.05/releases/index.html)
-- [ToolShed](https://toolshed.g2.bx.psu.edu)
-- [Test ToolShed](https://testtoolshed.g2.bx.psu.edu)
 
 ### API
 
 - [Quickstart](https://docs.galaxyproject.org/en/latest/api/quickstart.html)
+- [API wiki](https://galaxyproject.org/develop/api/)
+- [API Reference](https://docs.galaxyproject.org/en/master/api_doc.html)
 - [Python API bindings](https://bioblend.readthedocs.io/en/latest/)
 - [Java API bindings](https://github.com/galaxyproject/blend4j)
 - [PHP API bindings](https://github.com/galaxyproject/blend4php)
 - [JavaScript API binding](https://github.com/galaxyproject/galaxy/tree/dev/client/galaxy/scripts/mvc)
 - [CLI access to Galaxy](https://github.com/galaxy-iuc/parsec/)
 - [nebulizer - Command-line utilities to help with managing users, data libraries and tools in a Galaxy instance](https://github.com/pjbriggs/nebulizer)
-- [ephemeris - Python library and set of scripts for managing the bootstrapping of Galaxy plugins - tools, index data, and workflows](https://github.com/galaxyproject/ephemeris)
+
 - [Golang API bindings](https://pkg.go.dev/github.com/brinkmanlab/blend4go)
 - [VueJS API bindings](https://github.com/brinkmanlab/galaxy-client/)
 
@@ -74,8 +72,17 @@ A community project to get an overview about the Galaxy project
 
 ### Tools
 
-- [Inspect tool](https://github.com/brinkmanlab/galaxy-tools/blob/master/inspect/inspect.xml) reveals resources available to Galaxy tool wrapper command templates
+- [Intro](https://galaxyproject.org/tools/)
+- [Installing tools](https://galaxyproject.org/admin/tools/add-tool-from-toolshed-tutorial/)
+- [Building tools](https://planemo.readthedocs.io/en/latest/writing_standalone.html)
+- [ToolShed](https://toolshed.g2.bx.psu.edu)
+- [Test ToolShed](https://testtoolshed.g2.bx.psu.edu)
+- [usegalaxy.eu tools](https://github.com/usegalaxy-eu/usegalaxy-eu-tools)
+- [usegalaxy.* tools](https://github.com/galaxyproject/usegalaxy-tools)
+- [managing tools with Ephemeris](https://github.com/galaxyproject/ephemeris)
 
+#### Tool development repositories
+- [IUC tools](https://github.com/galaxyproject/tools-iuc)
 - [Björn Grüning repo](https://github.com/bgruening/galaxytools)
 - [Galaxy devteam repo](https://github.com/galaxyproject/tools-devteam)
 - Peter Cock's repos:
@@ -93,9 +100,8 @@ A community project to get an overview about the Galaxy project
 - [National Microbiology Laboratory's repo](https://github.com/phac-nml/galaxy_tools)
 - [Computational Chemistry](https://github.com/galaxycomputationalchemistry)
 - [Workflow4Metabolomics repo**s**](https://github.com/workflow4metabolomics)
-- [List of usegalaxy.* tools](https://github.com/usegalaxy-eu/usegalaxy-eu-tools)
 - [Fiona Brinkman Lab repo](https://github.com/brinkmanlab/galaxy-tools)
-
+- [Inspect tool](https://github.com/brinkmanlab/galaxy-tools/blob/master/inspect/inspect.xml) reveals resources available to Galaxy tool wrapper command templates
 
 # Workflows
 
