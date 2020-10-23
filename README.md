@@ -101,7 +101,6 @@ A community project to get an overview about the Galaxy project
 - [Computational Chemistry](https://github.com/galaxycomputationalchemistry)
 - [Workflow4Metabolomics repo**s**](https://github.com/workflow4metabolomics)
 - [Fiona Brinkman Lab repo](https://github.com/brinkmanlab/galaxy-tools)
-- [Inspect tool](https://github.com/brinkmanlab/galaxy-tools/blob/master/inspect/inspect.xml) reveals resources available to Galaxy tool wrapper command templates
 
 # Workflows
 
