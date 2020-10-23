@@ -64,6 +64,7 @@ A community project to get an overview about the Galaxy project
 ### Vimeo Channels
 
 - [Vimeo](https://vimeo.com/galaxyproject)
+- [YouTube](https://www.youtube.com/channel/UCwoMMZPbz1L9AZzvIvrvqYA)
 
 ### Tutorials and Trainings
 
