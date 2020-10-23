@@ -40,7 +40,6 @@ A community project to get an overview about the Galaxy project
 - [JavaScript API binding](https://github.com/galaxyproject/galaxy/tree/dev/client/galaxy/scripts/mvc)
 - [CLI access to Galaxy](https://github.com/galaxy-iuc/parsec/)
 - [nebulizer - Command-line utilities to help with managing users, data libraries and tools in a Galaxy instance](https://github.com/pjbriggs/nebulizer)
-
 - [Golang API bindings](https://pkg.go.dev/github.com/brinkmanlab/blend4go)
 - [VueJS API bindings](https://github.com/brinkmanlab/galaxy-client/)
 
