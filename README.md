@@ -80,6 +80,9 @@ A community project to get an overview about the Galaxy project
 - [usegalaxy.* tools](https://github.com/galaxyproject/usegalaxy-tools)
 - [managing tools with Ephemeris](https://github.com/galaxyproject/ephemeris)
 
+#### Tool development
+- [LSP server](https://github.com/galaxyproject/galaxy-language-server/) Microsoft Language Server Protocol for Galaxy Tool XML. Also works with [Jetbrains products](https://plugins.jetbrains.com/plugin/10209-lsp-support)
+
 #### Tool development repositories
 - [IUC tools](https://github.com/galaxyproject/tools-iuc)
 - [Björn Grüning repo](https://github.com/bgruening/galaxytools)
@@ -147,5 +150,4 @@ A community project to get an overview about the Galaxy project
 - [CloudMan UI](https://github.com/CloudVE/cloudman-ui)
 - [Galaxy Cloud Runner](https://github.com/CloudVE/galaxycloudrunner)
 - [AWS instance types](https://github.com/CloudVE/aws-instance-types)
-
 
