@@ -81,7 +81,10 @@ A community project to get an overview about the Galaxy project
 - [managing tools with Ephemeris](https://github.com/galaxyproject/ephemeris)
 
 #### Tool development
-- [LSP server](https://github.com/galaxyproject/galaxy-language-server/) Microsoft Language Server Protocol for Galaxy Tool XML. Also works with [Jetbrains products](https://plugins.jetbrains.com/plugin/10209-lsp-support)
+- [Galaxy Language Server](https://github.com/galaxyproject/galaxy-language-server/) - [LSP](https://microsoft.github.io/language-server-protocol/) implementation for Galaxy Tool XML wrappers
+- Galaxy Tools (Visual Studio Code Extension) - uses the Galaxy Language Server. Available at:
+  - [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=davelopez.galaxy-tools)
+  - [Open VSX](https://open-vsx.org/extension/davelopez/galaxy-tools)
 
 #### Tool development repositories
 - [IUC tools](https://github.com/galaxyproject/tools-iuc)
