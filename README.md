@@ -107,6 +107,12 @@ A community project to get an overview about the Galaxy project
 - [Workflow4Metabolomics repo**s**](https://github.com/workflow4metabolomics)
 - [Fiona Brinkman Lab repo](https://github.com/brinkmanlab/galaxy-tools)
 
+#### Tool Dependencies
+- [planemo-monitor](https://github.com/galaxyproject/planemo-monitor)
+- [BioContainers/multi-package-containers](https://github.com/BioContainers/multi-package-containers)
+- [BioContainers](https://quay.io/organization/biocontainers)
+- [Bioconda recipes](https://github.com/bioconda/bioconda-recipes/)
+
 # Workflows
 
 - [Intergalactic Workflow Commision](https://github.com/galaxyproject/iwc)
