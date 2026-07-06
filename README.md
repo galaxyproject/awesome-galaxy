@@ -35,6 +35,7 @@ A community project to get an overview about the Galaxy project
 - [API wiki](https://galaxyproject.org/develop/api/)
 - [API Reference](https://docs.galaxyproject.org/en/master/api_doc.html)
 - [Python API bindings](https://bioblend.readthedocs.io/en/latest/)
+- [R API bindings](https://github.com/JulFrey/GalaxyR)
 - [Java API bindings](https://github.com/galaxyproject/blend4j)
 - [PHP API bindings](https://github.com/galaxyproject/blend4php)
 - [JavaScript API binding](https://github.com/galaxyproject/galaxy/tree/dev/client/galaxy/scripts/mvc)
